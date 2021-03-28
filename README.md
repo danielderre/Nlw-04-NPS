@@ -60,7 +60,7 @@ The application can be accessed at [`localhost:3333`](http://localhost:3333).
 
 ## 📄 License
 
-This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for more information.
 
 ---
 <h4 align="center">
